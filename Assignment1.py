@@ -1,5 +1,15 @@
 # Lab Assignment 1
-# Employee Salary Calculation
+"""
+Construct a program to store the information of an employee such as name, employee ID, department and generate the salary as per the following conditions:
+
+(1) DA is 92% of Basic Salary
+
+(ii) HRA is 58% of Basic Salary
+
+(ii) TA is 30% of Basic Salary
+
+(iv) LIC is deducted: Rs. 500 every month
+"""
 
 # Input employee details
 name = input("Enter Employee Name: ")
