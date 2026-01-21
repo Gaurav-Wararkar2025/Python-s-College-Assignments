@@ -1,7 +1,7 @@
 # Lab Assignment 2
 
 """
-Construct a program to store the following details of a Vendor of a Shop
+Construct a program to store the following details of a Vendor of a Shop.
 
 a) Name of vendor
 
